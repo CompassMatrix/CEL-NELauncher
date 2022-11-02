@@ -7,7 +7,7 @@ Warning, this project has stopped operation on June 21, 2022<br>
 Compass,Dannertomas,SmallBlack.<br>
 You can contact them with their own Email-Address<br>
 <br>
-#警告:此项目中部分功能已经失效，您需要再次绕过Canlaunch函数
+# 警告:此项目中部分功能已经失效，您需要再次绕过Canlaunch函数
 # Warning:Some functions in this project have failed,you need to bypass the CanLaunch method again.
 # Project Principle
 通过逆向Netease - X19中WPFLauncher.exe与核心验证动态链接库掌握进服函数，通过重写调用程序使其绕过加载多余程序进入官方服务器<br>
